@@ -1,0 +1,7 @@
+id,date,category,amount,description
+1,2026-09-01,Food,250.00,Lunch
+2,2026-09-03,Travel,120.00,Bus and metro
+3,2026-09-05,Bills,800.00,Internet bill
+4,2026-09-08,Shopping,450.00,Clothes
+5,2026-09-12,Food,180.00,Dinner
+6,2026-09-15,Entertainment,300.00,Movie
