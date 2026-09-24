@@ -1,0 +1,11 @@
+# id|category|question|option1|option2|option3|option4|correctOptionIndex(0-3)
+1|Java|Which keyword is used to inherit a class in Java?|implements|extends|inherits|super|1
+2|Java|Which method is the entry point of a Java application?|start()|run()|main()|init()|2
+3|Java|Which collection does not allow duplicate elements?|List|ArrayList|Set|Vector|2
+4|OOP|Which concept hides internal implementation details?|Inheritance|Encapsulation|Polymorphism|Compilation|1
+5|SQL|Which SQL command is used to retrieve data?|SELECT|INSERT|UPDATE|DELETE|0
+6|SQL|Which clause filters rows in a SQL query?|ORDER BY|GROUP BY|WHERE|VALUES|2
+7|Python|Which keyword defines a function in Python?|func|define|def|function|2
+8|Computer Science|Which data structure follows FIFO?|Stack|Queue|Tree|Graph|1
+9|Java|Which symbol ends a Java statement?|:|.|;|,|2
+10|DBMS|Which key uniquely identifies a row?|Foreign Key|Primary Key|Candidate Value|Index Only|1
