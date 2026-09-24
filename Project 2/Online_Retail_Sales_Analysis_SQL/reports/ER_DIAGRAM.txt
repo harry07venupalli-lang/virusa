@@ -1,0 +1,32 @@
+ONLINE RETAIL SALES ANALYSIS - ER DIAGRAM
+
+CUSTOMERS
+---------
+customer_id (PK)
+name
+city
+      |
+      | 1-to-many
+      v
+ORDERS
+------
+order_id (PK)
+customer_id (FK)
+date
+      |
+      | 1-to-many
+      v
+ORDER_ITEMS
+-----------
+order_id (PK, FK)
+product_id (PK, FK)
+quantity
+      |
+      | many-to-1
+      v
+PRODUCTS
+--------
+product_id (PK)
+name
+category
+price
